@@ -59,7 +59,6 @@ header h1 {
 .small {
   margin: 0 auto; 
   font-family: 'Lato', sans-serif;
-  text-transform: capitalize;
   font-weight: 900;
   font-size: 100%;
 }
