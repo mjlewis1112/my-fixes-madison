@@ -76,7 +76,9 @@ article figure {
   margin: 0 0 1.25em 1.25em;
 }
 article figcaption {
-  font-size: inherit;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 200;
+  font-size: 70%;
 }
 .pagination {
   margin-top: 2em;
