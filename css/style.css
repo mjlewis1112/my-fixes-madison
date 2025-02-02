@@ -43,10 +43,10 @@ nav a.active {
   color: #F0F0F0;
 }
 /*-- Hero Unit Styles--*/
-.center header {
-  width: 255px;
-  margin-top: auto;
-  margin-bottom: auto;
+header {
+  width: 510px;
+  margin-left: auto;
+  margin-right: auto;
 }
 header img {
   width: 100%;
