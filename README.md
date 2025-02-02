@@ -33,7 +33,7 @@ Your page will likely get messed up at some point. Here are some strategies that
 
 + Use auto margins, flex display, and justify-content to evenly distribute (space-evenly) the pagination buttons at the bottom of the page. You might also style the border of the buttons to be thicker or thinner, or have another appearance as you wish.
 
-+ Add your name to the footer copyright.
+~~+ Add your name to the footer copyright.~~
 
 + Style the page with a suitable color scheme, either light or dark, so it doesn't look so plain. Consider using color for: navigation-bar background and text, footer background and text, page background, header background, body text, and pagination buttons, both normal and on hover.
 
