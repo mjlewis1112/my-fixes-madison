@@ -55,6 +55,7 @@ header img {
 header h1 {
   margin: 0 auto;
   padding: 0 auto;
+  text-align: center;
 }
 .small {
   margin: 0 auto; 
