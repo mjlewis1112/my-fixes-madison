@@ -85,8 +85,10 @@ article figcaption {
   font-size: 70%;
 }
 .pagination {
-  margin-top: 2em;
-  margin-bottom: 2em;
+  margin-top: auto;
+  margin-bottom: auto;
+  display: flex;
+  justify-content: space-between;
   width: 96%;
 }
 a.button {
