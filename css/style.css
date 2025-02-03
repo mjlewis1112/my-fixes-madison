@@ -56,13 +56,13 @@ header h1 {
   margin: 0 auto;
   padding: 0 auto;
   text-align: center;
-  text-transform: uppercase;
 }
 .small {
   margin: 0 auto; 
   font-family: 'Lato', sans-serif;
   font-weight: 900;
   font-size: 100%;
+  text-transform: uppercase;
 }
 /*-- Article Styles--*/
 article {
