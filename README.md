@@ -21,7 +21,7 @@ Your page will likely get messed up at some point. Here are some strategies that
 
 ~~+ Use the [display property](https://developer.mozilla.org/en-US/docs/Web/CSS/display) to set the display of the [nav element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav) to [flex](https://developer.mozilla.org/en-US/docs/Web/CSS/flex) to lay out the main menu in a horizontal row, and use the [justify-content property](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content) to distribute the links with [space-between](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content#space-between).~~
 
-+ There's a weird bit of extra space above the nav, preventing the nav from being flush with the top of the browser window. Find out where that space is coming from and get rid of it. (Hint: use the browser's inspector and the layout panel to view box model of each element, starting at the top and moving down).
+~~+ There's a weird bit of extra space above the nav, preventing the nav from being flush with the top of the browser window. Find out where that space is coming from and get rid of it. (Hint: use the browser's inspector and the layout panel to view box model of each element, starting at the top and moving down).~~
 
 ~~+ Use left and right [margin: auto](https://developer.mozilla.org/en-US/docs/Web/CSS/margin#more_examples) to center both the [header element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header) and [article elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) horizontally on the page.~~
 
