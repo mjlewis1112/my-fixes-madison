@@ -117,3 +117,6 @@ a.button:hover, a.button:active {
   line-height: .60;
   margin-right: 0.2 em;
 }
+body {
+  background-color: bisque;
+}
