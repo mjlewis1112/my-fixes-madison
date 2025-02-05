@@ -114,6 +114,6 @@ a.button:hover, a.button:active {
 .dropcap {
   font-size: 4.5em;
   float: left;
-  line-height: .75;
-  margin-right: 0.3 em;
+  line-height: .80;
+  margin-right: 0.2 em;
 }
