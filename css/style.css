@@ -89,7 +89,7 @@ article figcaption {
   margin-bottom: auto;
   display: flex;
   justify-content: space-evenly;
-  padding: bottom;
+  padding: 70px;
   width: 96%;
 }
 a.button {
