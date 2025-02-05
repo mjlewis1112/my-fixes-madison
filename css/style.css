@@ -11,7 +11,7 @@ img {
 	height: auto;
 }
 body {
-  color: #444;
+  color: #000000;
   font-size: 1.6rem;
   font-family:'Gentium Book Plus', serif;
 }
@@ -34,7 +34,7 @@ nav ul {
   padding: 1em;
 }
 nav a:link, nav a:visited {
-  color: #D0D0D0;
+  color: #ffffff;
   text-decoration: none;
 }
 nav a:hover, nav a:active  {
