@@ -23,7 +23,7 @@ nav, footer {
 }
 footer {
   text-align: center;
-  padding: 1em 0 .3em 0;
+  padding: 0 auto;
   color: #D0D0D0;
 }
 /*-- Main Menu Styles--*/
@@ -118,5 +118,5 @@ a.button:hover, a.button:active {
   margin-right: 0.2 em;
 }
 body {
-  background-color:rgb(249, 243, 235);
+  background-color:rgb(247, 243, 236);
 }
