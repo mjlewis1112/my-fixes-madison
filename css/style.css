@@ -92,19 +92,19 @@ article figcaption {
   width: 96%;
 }
 a.button {
-  border: 1px solid #888;
+  border: 1px solid  #443030;
   padding: .4em 1em .4em 1em;
   text-decoration: none;
-  color: #888;
+  color:  #443030;
   border-radius: 200px;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   font-size: 80%;
 }
 a.button:hover, a.button:active {
-  border: 1px solid #444;
+  border: 1px solid   #443030;
   text-decoration: none;
-  color: #222;
+  color: #443030;
 }
 /*-- changes header and article width on small screens --*/
 @media screen and (max-width: 768px) {
