@@ -53,6 +53,7 @@ header {
 header img {
   width: 100%;
   margin: 0 auto;
+  color: rgb(247, 243, 236);
 }
 header h1 {
   margin: 0 auto;
@@ -78,6 +79,7 @@ article figure {
   width: 39%;
   float: right;
   margin: 0 0 1.25em 1.25em;
+  color: rgb(247, 243, 236);
 }
 article figcaption {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -89,7 +91,7 @@ article figcaption {
   margin-bottom: auto;
   display: flex;
   justify-content: space-evenly;
-  width: 90%;
+  width: 96%;
 }
 a.button {
   border: 1px solid  #443030;
