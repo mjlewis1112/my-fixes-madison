@@ -11,7 +11,7 @@ img {
 	height: auto;
 }
 body {
-  color: #604a4a;
+  color: #6d5454;
   font-size: 1.6rem;
   font-family:'Gentium Book Plus', serif;
 }
@@ -19,7 +19,7 @@ p {
   margin-bottom: .67em;
 }
 nav, footer {
-  background-color: #fefefe;
+  background-color: #443030;
 }
 footer {
   text-align: center;
