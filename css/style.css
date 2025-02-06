@@ -94,11 +94,11 @@ article figcaption {
   width: 96%;
 }
 a.button {
-  border: 1px solid  #443030;
+  border: 2px solid  #443030;
   padding: .4em 1em .4em 1em;
   text-decoration: none;
   color:  #443030;
-  border-radius: 250px;
+  border-radius: 200px;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   font-size: 80%;
