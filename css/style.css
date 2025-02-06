@@ -117,7 +117,7 @@ a.button:hover, a.button:active {
   font-size: 4.5em;
   float: left;
   line-height: .60;
-  margin-right: 0.5 em;
+  margin-right: 1 em;
 }
 body {
   background-color:rgb(247, 243, 236);
