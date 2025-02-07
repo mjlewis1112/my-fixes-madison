@@ -23,6 +23,7 @@ nav, footer {
 }
 footer {
   text-align: center;
+  font-family: cursive;
   text-decoration: underline;
   padding: .2em;
   color: #ffffff;
