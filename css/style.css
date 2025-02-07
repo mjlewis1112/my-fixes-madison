@@ -34,7 +34,6 @@ nav ul {
   justify-content: space-between;
   font-family: cursive;
   list-style: none;
-  padding: 1em;
 }
 nav a:link, nav a:visited {
   color: #ffffff;
