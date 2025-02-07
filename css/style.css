@@ -31,6 +31,7 @@ footer {
 nav ul {
   display: flex;
   justify-content: space-between;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   list-style: none;
   padding: 1em;
 }
