@@ -106,8 +106,12 @@ a.button {
   font-weight: 300;
   font-size: 80%;
 }
-a.button:hover, a.button:active {
-  border: 1px solid   #443030;
+a.button:hover {background-color: antiquewhite;}
+
+a.button:active {
+  border: 1px solid #443030;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
   text-decoration: none;
   color: #443030;
 }
