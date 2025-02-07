@@ -106,7 +106,7 @@ a.button {
   font-weight: 300;
   font-size: 80%;
 }
-a.button:hover {background-color: antiquewhite;}
+a.button:hover {background-color:rgb(247, 243, 236)}
 
 a.button:active {
   border: 1px solid #443030;
